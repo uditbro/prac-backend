@@ -1,3 +1,2 @@
-#This is a backend series taught by hitesh chaudhary sir(chai aur backend)
+#This is a practice series for backend learning from hitesh sir (chai aur backend series)
 
--[Model]()
